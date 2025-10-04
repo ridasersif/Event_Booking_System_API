@@ -29,5 +29,5 @@ A complete Laravel 10-based Event Booking System with authentication, role-based
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd event-booking-system
+   cd Event_Booking_System_API
 
