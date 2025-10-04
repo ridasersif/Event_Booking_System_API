@@ -1,3 +1,4 @@
+
 # Event Booking System
 
 A complete Laravel 10-based Event Booking System with authentication, role-based access control, booking management, and payment processing.
@@ -29,3 +30,4 @@ A complete Laravel 10-based Event Booking System with authentication, role-based
    ```bash
    git clone <repository-url>
    cd event-booking-system
+
